@@ -35,7 +35,7 @@ const Data=[
         link: 'https://jamesnju.github.io/HOUSE-RENTAL/',
         descriptin: ''
     },
-    , {
+     {
         image: Image6,
         title: 'FACEBOOK CLONE',
         link: 'https://jamesnju.github.io/ReactfacebookChat/',

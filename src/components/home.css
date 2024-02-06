@@ -21,6 +21,7 @@
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     margin: auto;
     width: auto;
+    max-width: 85%;
     padding: 15px;
     height: auto;
     border-radius: 20px;
