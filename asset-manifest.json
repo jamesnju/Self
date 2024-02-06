@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Self/static/css/main.a236e8fb.css",
-    "main.js": "/Self/static/js/main.6a8d7611.js",
+    "main.js": "/Self/static/js/main.90a67951.js",
     "static/media/james.jpg": "/Self/static/media/james.19568b4b126987c75e3a.jpg",
     "static/media/agqit.png": "/Self/static/media/agqit.acb7c1b45a793a214874.png",
     "static/media/hdog.png": "/Self/static/media/hdog.49b27e5b9f5d7017fba2.png",
@@ -18,10 +18,10 @@
     "static/media/Postman - Postman API Fundamentals Student Expert - 2023-10-26.png": "/Self/static/media/Postman - Postman API Fundamentals Student Expert - 2023-10-26.68b3fd55d0aaee1bb269.png",
     "index.html": "/Self/index.html",
     "main.a236e8fb.css.map": "/Self/static/css/main.a236e8fb.css.map",
-    "main.6a8d7611.js.map": "/Self/static/js/main.6a8d7611.js.map"
+    "main.90a67951.js.map": "/Self/static/js/main.90a67951.js.map"
   },
   "entrypoints": [
     "static/css/main.a236e8fb.css",
-    "static/js/main.6a8d7611.js"
+    "static/js/main.90a67951.js"
   ]
 }
