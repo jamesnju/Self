@@ -20,7 +20,8 @@
     -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     margin: auto;
-    width: 50%;
+    width: auto;
+    padding: 15px;
     height: auto;
     border-radius: 20px;
     background-color: #fff;

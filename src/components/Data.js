@@ -3,8 +3,7 @@ import Image2 from '../images/magazine.png'
 import Image3 from '../images/todo.png'
 import Image4 from '../images/htmlmovieshop.png'
 import Image5 from '../images/rentals.png'
-
-
+import Image6 from '../images/Facebook.png'
 
 
 
@@ -35,6 +34,13 @@ const Data=[
         title: 'Rental Houses',
         link: 'https://jamesnju.github.io/HOUSE-RENTAL/',
         descriptin: ''
+    },
+    , {
+        image: Image6,
+        title: 'FACEBOOK CLONE',
+        link: 'https://jamesnju.github.io/ReactfacebookChat/',
+        descriptin: ''
+        
     },
     
 ]
