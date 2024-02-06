@@ -26,6 +26,7 @@ const Header = () => {
         : <Navbar.Brand href="#home" className='text-light text-center text-bold logo1'>JAMES</Navbar.Brand>
       }
       </Navbar>
+      
         
         
     </>

@@ -6,21 +6,22 @@ const Skills = () => {
         <div className="row ">
             <h1 className='text-center text-success'>Tech Stack</h1>
             <div className="col-md-3 stack">
+            <h2>Languages</h2>
+                <p>JAVASCRIPT,REACT FRAMEWORK</p>
+                <p>HTML5, CSS, BOOSTRAP, TAILWIND</p>
+                {/* <p>CSS</p>
+                <p>BOOSTRAP</p>
+                <p>TAILWIND</p> */}
+                <p>PHP</p>
+                {/* <p>REACT FRAMEWORK</p> */}
+            </div>
+            <div className="col-md-3 stack">
                 <h2>DATABASES</h2>
                 <p>MYSQL</p>
                 <p>MICROSOFT SERVER</p>
                 <p></p>
             </div>
-            <div className="col-md-3 stack">
-            <h2>Languages</h2>
-                <p>JAVASCRIPT</p>
-                <p>HTML5</p>
-                <p>CSS</p>
-                <p>BOOSTRAP</p>
-                <p>TAILWIND</p>
-                <p>PHP</p>
-                <p>REACT FRAMEWORK</p>
-            </div>
+           
             <div className="col-md-3 stack">
             <h2>Control version</h2>
                 <p>GIT</p>

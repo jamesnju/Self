@@ -8,7 +8,7 @@ const About = () => {
   return (
     <div className='container-fluid about'>
         <div className="row d-block">
-            <div className="col-sm-4">
+            <div className="col-sm-4 prof">
             {/* <h2 className='text-center text-success text-underline'>About</h2> */}
             <img src={Image} className='img-responsive' alt="" />
             </div>

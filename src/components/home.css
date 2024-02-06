@@ -7,35 +7,58 @@
     margin-top: 2rem;
 }
 .home{
+    
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+    font-size: 32px;
+    border-radius: 20px;
+}
+.home>p{
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     margin: auto;
-    width: 60%;
-    height: 60vh;
-    align-items: center;
-    text-align: center;
-    font-size: 32px;
+    width: 50%;
+    height: auto;
+    border-radius: 20px;
+    background-color: #fff;
 }
 /* About */
 .img-responsive{
     width: 10rem;
     border-radius: 100%;
-    align-items: center;
     height: 10rem;
-    margin: 0 auto 20px;
+}
+.prof{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 19px auto;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    background-color: #fff;
+    border-radius: 20px;
+    width: 15rem;
+    
 }
 .about{
     overflow-y: scroll;
     overflow-x: hidden;
 }
 .aboutme{
+    margin: auto;
+    width: 100%;
+}.aboutme >p{
+    border-radius: 15px;
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-    margin: auto;
-    margin-bottom: 4rem;
-    width: 80%;
+    margin-bottom: 2rem;
+    background-color: #fff;
+    padding: 13px;
 }
 .cv{
     display: flex;
@@ -52,20 +75,27 @@
     border-radius: 15px;
     color: green;
     font-weight: bold;
-    margin-top: -2rem;
+    margin-top: -19rem;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 .mainstack{
     margin: auto;
     overflow-y: scroll;
     overflow-x: hidden;
+    height: 60vh;
 }
 .stack{
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-    margin: 1rem;
+    margin: auto;
     border-radius: 20px;
     width: 18rem;
+    margin-top: 2rem;
+    background-color: #fff;
+
 }
 .stack>h2{
     text-align: center;
@@ -89,9 +119,9 @@
     background-color: #fff;
 }
 .foot{
-    background-color: #fff;
+    background-color: gainsboro;
     width: 100%;
-    height: 20vh;
+    height: 25vh;
 }
 .footer{
     justify-content: center;
