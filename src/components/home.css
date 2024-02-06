@@ -136,9 +136,16 @@
 form{
     display: flex;
     align-items: center;
-    width: 100%;
+    border-radius: 15px;
+    margin: auto;
+    width: auto;
+    background-color: #fff;
     flex-direction: column;
     gap: 2rem;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    height: auto;
 }
 input{
     width: 20rem;
@@ -147,16 +154,20 @@ input{
     padding-left: 13px;
     font-size: 18px;
     outline: none;
+    background-color: gainsboro;
 }
 textarea{
 width: 20rem;
+background-color: gainsboro;
+
 outline: none;
 border-radius: 16px;
 }
 .btnsend{
-    font-size: 24px;
+    font-size: 20px;
     border: none;
     width: 7rem;
+    height: 3rem;
     font-weight: bold;
     color: green;
     border-radius: 20px;

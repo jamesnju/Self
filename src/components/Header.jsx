@@ -4,8 +4,15 @@ import Navbar from 'react-bootstrap/Navbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { ImMenu } from "react-icons/im";
 import './heade.css';
+// import  {Route,Routes} from 'react-router-dom'
+
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
+// import Home from './Home';
+// import Skills from './Skills';
+// import Projects from './Projects';
+// import Contact from './Contact';
+// import Footer from './Footer';
 
 const Header = () => {
   const [menu, setMenu]  =  useState(false);
@@ -26,6 +33,15 @@ const Header = () => {
         : <Navbar.Brand href="#home" className='text-light text-center text-bold logo1'>JAMES</Navbar.Brand>
       }
       </Navbar>
+      {/* <div className="">
+      <Routes>
+        <Route  path='/' element={<Home/>} />
+        <Route  path='/' element={<Skills/>} />
+        <Route  path='/' element={<Projects/>} />
+        <Route  path='/' element={<Contact/>} />
+        <Route  path='/' element={<Footer/>} />
+      </Routes>
+      </div> */}
       
         
         
