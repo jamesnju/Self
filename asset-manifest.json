@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Self/static/css/main.03619083.css",
-    "main.js": "/Self/static/js/main.97a6ca81.js",
+    "main.css": "/Self/static/css/main.4a3a9dc7.css",
+    "main.js": "/Self/static/js/main.6fac35bb.js",
     "static/media/james.jpg": "/Self/static/media/james.19568b4b126987c75e3a.jpg",
     "static/media/agqit.png": "/Self/static/media/agqit.acb7c1b45a793a214874.png",
     "static/media/hdog.png": "/Self/static/media/hdog.49b27e5b9f5d7017fba2.png",
@@ -17,11 +17,11 @@
     "static/media/summerizer.png": "/Self/static/media/summerizer.4ab3d2b1afd2aeda8340.png",
     "static/media/Postman - Postman API Fundamentals Student Expert - 2023-10-26.png": "/Self/static/media/Postman - Postman API Fundamentals Student Expert - 2023-10-26.68b3fd55d0aaee1bb269.png",
     "index.html": "/Self/index.html",
-    "main.03619083.css.map": "/Self/static/css/main.03619083.css.map",
-    "main.97a6ca81.js.map": "/Self/static/js/main.97a6ca81.js.map"
+    "main.4a3a9dc7.css.map": "/Self/static/css/main.4a3a9dc7.css.map",
+    "main.6fac35bb.js.map": "/Self/static/js/main.6fac35bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.03619083.css",
-    "static/js/main.97a6ca81.js"
+    "static/css/main.4a3a9dc7.css",
+    "static/js/main.6fac35bb.js"
   ]
 }
