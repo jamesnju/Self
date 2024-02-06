@@ -18,6 +18,8 @@ const Projects = () => {
                 <Carousel.Caption>
                 </Carousel.Caption>
                 <h5>{items.title}</h5>
+                <a href={items.link}>Click to view</a>
+            
             </Carousel.Item>
             ))
           }

@@ -12,23 +12,28 @@ const Data=[
     {
         image: Image1,
         title: 'Summerizer App',
+        link: "https://jamesnju.github.io/summarize-API-app-AI/",
         descriptin: ''
     },
     {
         image: Image2,
         title: 'Magazine News',
+        link: "https://jamesnju.github.io/magazine/",
         descriptin: ''
     }, {
         image: Image3,
         title: 'Todo App',
+        link: "https://jamesnju.github.io/todoapp/",
         descriptin: ''
     }, {
         image: Image4,
         title: 'Movie Website',
+        link: 'https://jamesnju.github.io/Moviewebsite/',
         descriptin: ''
     }, {
         image: Image5,
         title: 'Rental Houses',
+        link: 'https://jamesnju.github.io/HOUSE-RENTAL/',
         descriptin: ''
     },
     
