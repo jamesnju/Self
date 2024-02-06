@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Self/static/css/main.a236e8fb.css",
+    "main.js": "/Self/static/js/main.03b2539c.js",
+    "static/media/james.jpg": "/Self/static/media/james.19568b4b126987c75e3a.jpg",
+    "static/media/agqit.png": "/Self/static/media/agqit.acb7c1b45a793a214874.png",
+    "static/media/hdog.png": "/Self/static/media/hdog.49b27e5b9f5d7017fba2.png",
+    "static/media/rentals.png": "/Self/static/media/rentals.8e8c9d033029c9d29293.png",
+    "static/media/certificate-2kghfzu224vz-1698422104.jpg": "/Self/static/media/certificate-2kghfzu224vz-1698422104.245312766cb701cd379d.jpg",
+    "static/media/oil.png": "/Self/static/media/oil.9225b936ba941d257daf.png",
+    "static/media/letteraq.png": "/Self/static/media/letteraq.c56ee3aa0c4b8d43860a.png",
+    "static/media/htmlmovieshop.png": "/Self/static/media/htmlmovieshop.27734690ca34cf625725.png",
+    "static/media/Resume.pdf": "/Self/static/media/Resume.ce61df6a3caeaae51767.pdf",
+    "static/media/freecodecert.png": "/Self/static/media/freecodecert.10fa152ce647063aae7c.png",
+    "static/media/magazine.png": "/Self/static/media/magazine.699c25ed980688a4530c.png",
+    "static/media/todo.png": "/Self/static/media/todo.f084fc4bd01a098c7534.png",
+    "static/media/summerizer.png": "/Self/static/media/summerizer.4ab3d2b1afd2aeda8340.png",
+    "static/media/Postman - Postman API Fundamentals Student Expert - 2023-10-26.png": "/Self/static/media/Postman - Postman API Fundamentals Student Expert - 2023-10-26.68b3fd55d0aaee1bb269.png",
+    "index.html": "/Self/index.html",
+    "main.a236e8fb.css.map": "/Self/static/css/main.a236e8fb.css.map",
+    "main.03b2539c.js.map": "/Self/static/js/main.03b2539c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a236e8fb.css",
+    "static/js/main.03b2539c.js"
+  ]
+}
