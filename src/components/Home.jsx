@@ -10,7 +10,7 @@ return (
     <>
         <div className='container-fluid'>
         <div className="row home">
-            <p className='m-auto'>Hi, I'm James a Passionate <strong>Software DEVELOPER</strong> </p>
+            <p className='m-auto'>Hi, I'm James a Passionate Software DEVELOPER </p>
         </div>
     </div>
         <About/>
